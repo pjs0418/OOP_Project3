@@ -1,0 +1,23 @@
+﻿  d3dUtility.cpp
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\d3dutility.h(23): warning C4005: 'INFINITY': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: 'INFINITY'의 이전 정의를 참조하십시오.
+  virtualLego.cpp
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\d3dutility.h(23): warning C4005: 'INFINITY': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: 'INFINITY'의 이전 정의를 참조하십시오.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(139): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(142): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(150): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(163): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(165): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(167): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(169): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(178): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(294): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(297): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(316): warning C4305: 'return': 'double'에서 'float'(으)로 잘립니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(640): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(641): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(662): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\tony1\desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\virtuallego.cpp(663): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  VirtualLego.vcxproj -> C:\Users\tony1\Desktop\3학년 2학기\객체지향프로그래밍\20171685_박준수_proj3\20171685_박준수_proj3\.\Release\VirtualLego.exe
