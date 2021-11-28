@@ -1,8 +1,8 @@
 # OOP Project 3 : Arkanoid Game
 
-OS type : Windows 10
-Using Visual Studio 2017 Community
-Compiler : Visual C++ 2017
+- OS type : Windows 10
+- Using Visual Studio 2017 Community
+- Compiler : Visual C++ 2017
 
 How to compile and execute
 1. Open VirtualLego.sln file
